@@ -1,2 +1,4 @@
-# Data-privacy-and-security-
-Cyber Security Practical – RSA Encryption &amp; Secret Message using CMD
+This repository contains:
+- Practical 2: Secret Message using CMD
+- Practical 3: RSA Encryption using Devglan Tool
+
